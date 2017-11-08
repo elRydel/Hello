@@ -11,7 +11,7 @@ public class Main {
         System.out.println("jesszcze jeden pusz rydla");
         System.out.println("jesszcze jeden pusz rydla");
         System.out.println("jesszcze jeden pusz rydla");
-        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("JOJOJOJOJOJOJOJLO");
         System.out.println("jesszcze jeden pusz rydla");
         System.out.println("jesszcze jeden pusz rydla");
         System.out.println("jesszcze jeden pusz rydla");
