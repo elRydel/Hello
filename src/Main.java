@@ -7,6 +7,17 @@ public class Main {
 
         System.out.println("To moje spadajjjj ahahha matjyoirentubw - nie mow tak brzydko");
         System.out.println("jesszcze jeden pusz Zientka");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
+        System.out.println("jesszcze jeden pusz rydla");
 
     }
 }
